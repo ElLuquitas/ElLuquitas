@@ -4,13 +4,14 @@
 <br>
 
 <p align="center">
-    <a href="www.linkedin.com/in/lucas-orellana-jara">
+    <a href="https://www.linkedin.com/in/lucas-orellana-jara">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:lucas.orellana.j@ug.uchile.cl">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </p>
+
 
 ## 🌍 Un poco sobre mí
 Soy estudiante de doble título de la Universidad de Chile, apasionado por la tecnología y la Inteligencia Computacional, siendo ésta mi línea de especialización.
